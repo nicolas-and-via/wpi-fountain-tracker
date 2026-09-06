@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+:root {
+    --wpi-red: #ce122e;
+    --wpi-black: #2b2c2b;
+    --off-white: #fcfbee;
+    --wpi-silver: #c0c0c0;
+    --accent-red: #830b1d;
+}
